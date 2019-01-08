@@ -1,4 +1,4 @@
-def oxford_comma(fruit)
+def oxford_comma(array)
  fruit == ["kiwi"]
  puts "#{fruit}"
 end
