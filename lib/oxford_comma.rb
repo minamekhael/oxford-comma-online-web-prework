@@ -1,4 +1,4 @@
 def oxford_comma(fruit)
- fruit == ["kiwi]
+ fruit == ["kiwi"]
  puts #{fruit}
 end
