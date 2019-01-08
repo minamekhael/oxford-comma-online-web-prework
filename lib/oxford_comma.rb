@@ -1,3 +1,2 @@
-def oxford_comma(array)
-
+def oxford_comma()
 end
