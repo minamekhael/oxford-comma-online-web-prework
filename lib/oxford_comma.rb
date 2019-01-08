@@ -1,5 +1,5 @@
 def oxford_comma(array)
- array = "kiwi"
+ array = "kiwi, durian"
  puts 
- array
+ array.split
 end
