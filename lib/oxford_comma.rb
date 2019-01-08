@@ -1,4 +1,4 @@
-def oxford_comma(kiwi)
+def oxford_comma(array)
   puts 
   "kiwi"
 end
