@@ -1,4 +1,4 @@
 def oxford_comma(array)
-  puts 
-  "kiwi"
+ array = "kiwi"
+ puts array
 end
