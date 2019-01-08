@@ -1,3 +1,3 @@
 def oxford_comma(fruit)
- ["kiwi, durian"].join("and")
+ array == ["kiwi, durian"]
 end
