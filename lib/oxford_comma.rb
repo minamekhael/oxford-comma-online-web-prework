@@ -1,4 +1,5 @@
 def oxford_comma(array)
  fruit = ["kiwi"]
- puts "#{fruit}"
+ puts 
+ "#{fruit}"
 end
